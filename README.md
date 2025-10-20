@@ -14,3 +14,4 @@ First check the table in the excel data file
 3.	They must have the same Heading (the heading must consistent)
 4.	The row must not be the row be the same
 
+[NASD OTC RAW DATA.xlsx](https://github.com/user-attachments/files/23009821/NASD.OTC.RAW.DATA.xlsx)
